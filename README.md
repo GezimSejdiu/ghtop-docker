@@ -1,6 +1,6 @@
 # ghtop Docker image
 
-A simple Docker image for running [ghtop](https://github.com/nat/ghtop) (a tool made with :heart: by @nat) API telling you what's happening on GitHub in real-time
+A simple Docker image for running [ghtop](https://github.com/nat/ghtop) (a tool made with :heart: by [@nat](https://github.com/nat)) API telling you what's happening on GitHub in real-time
 
 ## Get Started
 ```sh
