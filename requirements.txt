@@ -1,0 +1,4 @@
+emoji==0.6.0
+enlighten==1.7.0
+pytz==2020.4
+requests==2.25.0
